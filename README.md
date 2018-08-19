@@ -44,8 +44,6 @@ HOW TO RUN VIA TERMUX ( TERMINAL LINUX )
 16. pip3 install googletrans
 17. pip3 install wikipedia
 18. pip3 install youtube_dl
-19. cd
-20. python3 RIDEN.py
 
 KAMI JUGA MENYEDIAKAN SEWA VPS & BOT SIRI
 INFO LEBIH LANJUT : ID LINE sirichan_gue
